@@ -1,0 +1,379 @@
+Bryant Dr
+Pio Pico Dr
+KREMEYER CT
+Woodvale Dr
+MADISON ST
+Point Dr
+Lanyard Pl
+Loma Way
+Buena Vista Way
+235 Pine Ave
+Eureka Pl
+Canyon Pl
+Highland Dr
+Flying Cloud Way
+Spanish Way
+Kimberly Ct
+Woodland Way
+Via Marta
+519 Grand Avenue
+Celinda Dr
+Lewis Ln
+Grove Ave
+4747 Marina
+Canario St
+Forecastle Ct
+Cameo Rd
+Bryce Cir
+Summerwind Pl
+Lee Ct
+Monroe St
+Sunset Hill Dr
+Canyon St
+Windjammer Way
+Laguna Dr
+Butters Rd
+Date Ave
+Delaney Ct
+Kalpati Cir
+Laguna Dr
+Westwood Dr
+Harding St
+Bedford Cir
+Hosp Way
+Morgan Rd
+Cliff Ct
+Brentwood Ct
+1348 Cynthia Lane
+Anchor Way
+Ciardi Ct
+2925 valley street
+Madison St
+Armada Dr
+Maezel Ln
+Cape Aire Ln
+2714 Arland Rd
+Sawyer Ln
+Valencia Ave
+Sycamore Ave
+Woodwind Rd
+Ann Dr
+2049 cordoba place
+Dana Ct
+Julie Pl
+Redwood Ave
+Forest Ave
+Sea Bluff Cir
+Courageous Ln
+Keats Pl
+Millay Ct
+Sea Bright Dr
+Sea Bright Pl
+Hillcrest Cir
+Harrison St
+Gregory Dr
+Cape May Pl
+Stratford Ln
+Hillview Ct
+Azure Cir
+Gloria Ln
+James Dr
+Marina Dr
+Pannonia Rd
+HAYMAR DR
+Frazier Ave
+& 163-165 Acacia Ave
+Schooner Way
+Truesdell Ln
+Basswood Ave
+1620 Frazier Ave
+Elmwood St
+Tara Ct
+Mountain View Dr
+Pointe Ave
+Timberline Rd
+Harding St
+Clearview Dr
+Macarthur Ave
+Aura Cir
+Carlsbad Blvd
+Carlsbad Village Dr
+MCCAULEY LN
+Sara Way
+Roosevelt St
+Jefferson St
+Magnolia
+Charleen Cir
+Beech Ave
+Locust Ave
+Sunnyhill Dr
+Hillyer St
+Layang Layang Cir
+2547 State St
+Sheridan Pl
+Whitman Way
+Calavo Ct
+Shawn Ct
+Niki Lynn Pl
+Arbuckle Pl
+Ashberry Rd
+Grady Pl
+McKinley St
+Magnolia Ave
+Lindsay Deive
+Wilson St
+Lindsay Dr
+Steinbeck Ct
+Morning Glory Ln
+David Pl
+Endeavor Ln
+4015 Sunnyhill Drive
+Grecourt Way
+Camino Del Sol Cir
+Crescent Point Rd
+Jeanne Pl
+Coralwood Cir
+Canario St
+Maple Ave
+Hoover St
+Tierra Del Oro
+Via Clemente
+2015 Aura Circle
+Tierra Del Toro
+Highland Dr
+HOPE AVE
+Stella Maris Ln
+Sevilla Way
+Coastline Ave
+High Ridge Ave
+Palisades Dr
+Newland Ct
+Royal Dr
+Yourell Ave
+Byron Pl
+Home Ave
+Woodridge Cir
+Belle Ln
+Havens Point Pl
+Shore Dr
+Juniper Ave
+Cindy Ave
+Spencer Ln
+Bluff View Way
+Whitman Way
+Whitman Way
+Clemens Ct
+Balfour Ct
+Kipling Ln
+Coleridge Ct
+Jeffers Pl
+Alondra Way
+Seacrest Dr
+Westhaven Dr
+Bienvenida Cir
+Browning Rd
+Palm Ave
+3050 Madison Ave
+Amberwood Ct
+Tyler St
+Walnut Ave
+Park Ct
+Larkspur Ln
+Yuki Ln
+May Ct
+Spruce St
+Driftwood Cir
+Austin Ter
+Skyline Rd
+Donna Ct
+Cordoba Pl
+Ridgecrest Dr
+Davis Ave
+Monroe St
+Dickinson Dr
+Knowles Ave
+Rogue Isle Ct
+Guevara Rd
+Donna Dr
+Crest Dr
+Cove Dr
+Cannon Rd
+Eliot Pl
+Circulo Santiago
+Evergreen Cir
+Point Way
+Yvette Way
+841 Kalpati Circle
+Kirk Pl
+Cipriano Ln
+ACACIA AVE
+Park Dr
+Sunrise Cir
+Blenkarne Dr
+Rising Glen Way
+Vista Way
+Azure Cir
+Wintergreen Dr
+Bonita Ln
+Tamarack Ave
+Karren Ln
+Lynch Ct
+2513 state street
+Loretta Ln
+Linmar Ln
+Davis Pl
+Avenue of the Trees
+Isle Dr
+Adair Way
+Gayle Way
+Pine Ave
+Andrea Ave
+4016 Garfield
+Long Pl
+Kellogg Ave
+Delaney Ct
+597 Laguna Drive
+Kremeyer Cir
+Marjorie Ln
+Scott Dr
+Syme Dr
+Sandy Pl
+Chuparosa Way
+Parkside Pl
+Bruce Rd
+Spyglass Ct
+Baldwin Ln
+Birchwood Cir
+OCEAN ST
+Outrigger Ln
+Forest Park Ln
+Falcon Dr
+Grand Ave
+Tuttle St
+Brooks Way
+Las Flores Dr
+El Arbol Dr
+Holly Brae Ln
+Carlsbad Blvd
+Valley Pl
+Scenic Way
+Horizon Dr
+Refugio Ave
+Lorna Ln
+Twain Ave
+Jefferson St
+Fleet St
+Frost Ave
+Beach Bluff Rd
+Pacific Ave
+Parcel 3 Eucalyptus Lane
+Sand Cove Way
+Avenida Encinas
+El Camino Real
+Brady Cir
+MARBRISA CIR
+Sunburst Rd
+Kelly Dr
+Olive Ave
+Garfield St
+Harbor Dr
+Avila Ave
+Hibiscus Cir
+Oak Ave
+CAROL PL
+Janis Way
+Seaview Way
+DRAKE WAY
+OLIVE DR
+Laguna Dr
+Camino Real
+Chestnut Ave
+Via Arequipa
+Margaret Way
+Nebina
+Laurie Cir
+Neblina Dr
+Avocado Ln
+Pine Crest Way
+Masters Rd
+Adams St
+Lincoln St
+Polly Ln
+Packard Ln
+# 3 Laguna Dr
+Chinquapin Ave
+Juniper Ave
+Doreet Way
+Argosy Ln
+Valley St
+Longfellow Rd
+Cynthia Ln
+Meadowlark Ln
+Aguila St
+3994 Scott Drive
+Camden Cir
+Nob Hill Dr
+Cypress Hill Rd
+LOS MONAS
+4016 Layang Layang Circle Unit D
+Vigilant Way
+Hillside Dr
+Cherry Ave
+Basswood
+Sequoia Ave
+Charter Oak Dr
+Crestview Dr
+PASEO DEL NORTE
+Althea Ln
+BUENA VISTA AVE
+MARRON RD
+TAMARACK ST
+Forest View Way
+Adams St
+ADAMS AVE
+BALBOA CIR
+MARBRISA CIR
+Aidan Cir
+Avondale Cir
+Eucalyptus Ln
+Beachwood Ct
+Los Robles Dr
+Merwin Dr
+Ratcliff Rd
+Shelley Pl
+Sandalwood Ln
+EDISON PL
+State St
+Harborview Ln
+Nautical Dr
+Maria Ln
+Cabrillo Pl
+Lisa St
+Citrus Pl
+Alder Ave
+4 Peaks St
+5067 Ashberry Rd
+Carlsbad Blvd Week
+Fernglen Rd
+Linda Ln
+HEMINGWAY DR
+Buena Pl
+Milton Rd
+Cedarwood Way
+0 Adams st
+Rue Des Chateaux
+Loma Ct
+Hemlock Ave
+View Dr
+Auden Pl
+Via Hinton
+Buena Vista Cir
+Camellia Pl
+Telescope Ave
+Loma Laguna Dr
+Arland Rd
+Cypress Hill Rd
+4016 Layang Layang Cir Unit D
+NORMANDY LN
+4445 Sunnyhill Dr.
+Saint James Ct
